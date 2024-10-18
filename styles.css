@@ -4,7 +4,7 @@ display:grid;
 	
 }
 .card{
-	
+	border: 10px solid rgb(204, 204, 204);
 	background-color:#fafafa;
 	
 }
